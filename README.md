@@ -1,1 +1,0 @@
-# bsit-fyp-2024-llm-license-plate-detection-and-recognition-system
