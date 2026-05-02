@@ -12,7 +12,7 @@
 | Project Domain | Computer Vision & Artificial Intelligence                  |
 | Supervisor     | Usman Saif                                                 |
 | Team Size      | 4 Members                                                  |
-| Group Leader   | Muhammad Muhammad (Roll No: 032303)                        |
+| Group Leader   | Muhammad Suleman (Roll No: 032303)                        |
 
 ---
 
