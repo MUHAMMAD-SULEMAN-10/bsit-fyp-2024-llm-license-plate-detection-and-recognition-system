@@ -28,7 +28,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project presents an automatic License Plate Detection and Recognition System that combines computer vision and large language/vision models to identify vehicle license plates and extract text from them.
 
@@ -51,7 +51,7 @@ By integrating these technologies, the project provides a complete Automatic Num
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
 | Technology                       | Purpose                             |
 | -------------------------------- | ----------------------------------- |
@@ -64,7 +64,7 @@ By integrating these technologies, the project provides a complete Automatic Num
 
 ---
 
-# ⚙️ System Architecture
+#  System Architecture
 
 ## 1. Vehicle Detection
 
@@ -88,7 +88,7 @@ The system extracts and displays the license plate number as text.
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
 Input Image / Video
@@ -114,7 +114,7 @@ Final Output
 
 ---
 
-# 🔍 Florence-2 Model Overview
+#  Florence-2 Model Overview
 
 Florence-2 is a Vision-Language Model (VLM) developed by Microsoft. It supports multiple visual understanding tasks such as:
 
@@ -151,7 +151,7 @@ The API enables efficient model inference for license plate text recognition.
 
 ---
 
-# 📊 Applications
+#  Applications
 
 * Traffic violation detection
 * Smart city surveillance
@@ -161,7 +161,7 @@ The API enables efficient model inference for license plate text recognition.
 
 ---
 
-# 📌 Future Improvements
+#  Future Improvements
 
 * Real-time traffic camera integration
 * Multi-camera vehicle tracking
@@ -172,7 +172,7 @@ The API enables efficient model inference for license plate text recognition.
 
 ---
 
-# 🎓 Academic Contribution
+#  Academic Contribution
 
 This project was developed as part of the BSIT Final Year Project (FYP) 2024 to explore the integration of computer vision, deep learning, and large vision-language models for intelligent transportation systems.
 
