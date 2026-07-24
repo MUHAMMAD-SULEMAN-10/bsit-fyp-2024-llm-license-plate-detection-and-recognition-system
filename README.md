@@ -40,7 +40,7 @@ By integrating these technologies, the project provides a complete Automatic Num
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
 * Automatic vehicle detection
 * License plate detection using deep learning
